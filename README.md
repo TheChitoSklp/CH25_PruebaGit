@@ -12,4 +12,4 @@ Este proyecto incluye codigo en `HTML`
 
 ---
 
-### Gracias por tus aportaciones
+### Gracias por tus aportaciones y comentarios
